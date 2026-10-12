@@ -1,0 +1,483 @@
+Time,Temp_F,Humidity,DewPoint_F,Pressure_inHg,Prediction
+10:55:31,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:33,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:35,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:37,68.7,71.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:39,68.9,71.0,59.1,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:55:41,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:43,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:45,68.7,71.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:55:57,68.9,71.0,59.1,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:55:59,68.7,71.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:01,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:03,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:05,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:07,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:09,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:12,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:14,68.9,70.0,58.7,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:16,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:18,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:20,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:22,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:24,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:26,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:28,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:30,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:32,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:34,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:36,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:38,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:40,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:42,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:44,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:46,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:48,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:50,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:52,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:56:54,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:56,68.2,70.0,58.0,29.30,Fair weather | Low pressure — unsettled weather possible
+10:56:58,68.7,70.0,58.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:00,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:02,68.9,70.0,58.7,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:04,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:06,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:08,68.5,70.0,58.4,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:10,68.9,70.0,58.7,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:13,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:15,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:17,68.9,70.0,58.7,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:19,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:21,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:23,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:25,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:27,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:29,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:31,68.9,70.0,58.7,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:33,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:35,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:37,68.9,70.0,58.7,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:39,68.7,71.0,58.9,29.30,Cooling with rising humidity — possible rain soon | Low pressure — unsettled weather possible
+10:57:41,68.7,71.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:43,68.9,70.0,58.7,29.30,Warming with dropping humidity — fair weather likely | Low pressure — unsettled weather possible
+10:57:45,69.1,71.0,59.3,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:47,69.1,70.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:49,68.9,71.0,59.1,29.30,Cooling with rising humidity — possible rain soon | Low pressure — unsettled weather possible
+10:57:51,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:53,68.9,71.0,59.1,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:55,69.3,71.0,59.5,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:57:57,69.3,71.0,59.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:57:59,69.1,70.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:58:01,68.9,71.0,59.1,29.30,Cooling with rising humidity — possible rain soon | Low pressure — unsettled weather possible
+10:58:03,69.1,70.0,58.9,29.30,Warming with dropping humidity — fair weather likely | Low pressure — unsettled weather possible
+10:58:05,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:58:07,69.1,70.0,58.9,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:58:09,68.9,71.0,59.1,29.30,Cooling with rising humidity — possible rain soon | Low pressure — unsettled weather possible
+10:58:11,69.1,71.0,59.3,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:58:13,69.1,70.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:58:16,68.7,70.0,58.5,29.30,Fair weather | Low pressure — unsettled weather possible
+10:58:18,69.1,70.0,58.9,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:58:20,69.3,70.0,59.0,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:58:22,69.1,70.0,58.9,29.30,Fair weather | Low pressure — unsettled weather possible
+10:58:24,68.9,70.0,58.7,29.30,Fair weather | Low pressure — unsettled weather possible
+10:58:26,69.1,70.0,58.9,29.30,Moisture increasing — precipitation possible | Low pressure — unsettled weather possible
+10:58:33,69.1,70.0,58.9,,Collecting data...
+10:58:35,69.1,70.0,58.9,,Fair weather
+10:59:26,69.4,70.0,59.2,,Moisture increasing — precipitation possible | Pressure steady — little change expected
+10:59:38,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+10:59:40,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+10:59:42,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+10:59:44,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+10:59:46,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+10:59:48,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+10:59:50,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+10:59:52,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+10:59:54,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+10:59:56,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+10:59:58,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:00:00,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:02,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:00:04,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:00:06,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:00:08,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:10,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:00:12,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:15,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:17,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:00:19,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:00:21,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:23,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:25,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:27,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:29,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:31,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:33,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:35,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:37,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:39,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:41,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:43,68.9,70.0,58.7,29.30,Fair weather | Pressure steady — little change expected
+11:00:45,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:47,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:49,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:51,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:53,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:55,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:00:57,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:00:59,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:01,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:03,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:05,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:07,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:09,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:11,69.8,71.0,60.0,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:01:13,69.8,71.0,60.0,29.30,Fair weather | Pressure steady — little change expected
+11:01:16,70.0,71.0,60.1,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:18,70.2,70.0,59.9,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:01:20,70.0,71.0,60.1,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:01:22,70.0,71.0,60.1,29.30,Fair weather | Pressure steady — little change expected
+11:01:24,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:26,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:28,70.2,71.0,60.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:30,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:32,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:34,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:36,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:38,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:40,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:42,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:44,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:46,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:48,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:50,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:01:52,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:54,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:01:56,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:01:58,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:00,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:02:02,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:04,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:06,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:08,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:02:10,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:02:12,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:02:14,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:16,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:19,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:21,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:23,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:25,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:27,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:29,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:31,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:33,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:35,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:02:37,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:39,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:41,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:43,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:45,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:47,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:02:49,70.2,69.0,59.5,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:02:51,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:02:53,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:55,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:02:57,70.2,69.0,59.5,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:02:59,70.0,70.0,59.7,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:03:01,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:03,69.8,70.0,59.6,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:03:05,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:07,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:09,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:03:11,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:13,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:03:15,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:03:17,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:20,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:22,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:03:24,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:03:26,70.0,70.0,59.7,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:28,70.2,70.0,59.9,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:30,70.0,70.0,59.7,29.30,Fair weather | Pressure steady — little change expected
+11:03:32,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:34,70.2,69.0,59.5,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:36,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:38,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:03:40,70.2,69.0,59.5,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:42,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:03:44,70.2,69.0,59.5,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:46,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:48,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:03:50,70.2,69.0,59.5,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:03:52,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:54,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:56,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:03:58,70.0,69.0,59.3,29.30,Fair weather | Pressure steady — little change expected
+11:04:00,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:02,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:04,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:06,70.2,69.0,59.5,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:08,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:10,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:12,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:14,70.0,68.0,58.9,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:04:16,70.2,69.0,59.5,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:18,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:20,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:23,70.0,68.0,58.9,29.30,Fair weather | Pressure steady — little change expected
+11:04:25,69.8,68.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:04:27,69.8,68.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:04:29,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:31,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:33,70.0,68.0,58.9,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:04:35,69.8,69.0,59.2,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:04:37,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:39,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:41,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:43,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:45,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:47,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:49,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:51,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:53,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:55,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:04:57,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:04:59,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:01,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:03,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:05,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:07,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:09,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:11,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:13,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:15,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:05:17,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:19,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:21,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:24,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:26,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:28,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:30,70.0,69.0,59.3,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:05:32,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:34,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:36,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:38,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:40,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:42,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:44,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:46,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:05:48,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:05:50,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:52,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:54,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:56,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:05:58,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:00,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:02,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:04,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:06,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:08,69.1,69.0,58.5,29.30,Fair weather | Pressure steady — little change expected
+11:06:10,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:06:12,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:14,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:16,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:18,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:20,69.8,68.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:06:22,69.6,68.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:06:25,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:06:27,69.8,68.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:06:29,69.6,69.0,59.0,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:06:31,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:06:33,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:06:35,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:06:37,69.6,69.0,59.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:06:39,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:06:41,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:06:43,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:06:45,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:47,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:06:49,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:06:51,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:06:53,69.8,69.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:06:55,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:06:57,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:06:59,69.6,69.0,59.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:01,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:07:03,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:05,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:07:07,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:07:09,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:07:11,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:13,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:07:15,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:17,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:07:19,69.6,69.0,59.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:21,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:23,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:07:25,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:07:28,69.6,69.0,59.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:30,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:07:32,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:07:34,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:36,68.9,70.0,58.7,29.30,Fair weather | Pressure steady — little change expected
+11:07:38,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:40,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:07:42,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:44,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:07:46,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:07:48,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:07:50,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:07:52,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:07:54,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:07:56,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:07:58,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:00,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:08:02,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:08:04,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:06,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:08:08,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:08:10,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:08:12,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:14,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:08:16,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:08:18,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:08:20,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:22,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:08:24,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:26,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:08:28,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:31,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:08:33,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:08:35,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:37,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:39,69.4,69.0,58.8,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:41,68.9,69.0,58.3,29.30,Fair weather | Pressure steady — little change expected
+11:08:43,69.3,69.0,58.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:45,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:47,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:49,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:51,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:53,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:55,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:08:57,69.4,69.0,58.8,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:08:59,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:09:01,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:09:03,68.5,70.0,58.4,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:09:05,69.3,69.0,58.6,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:09:07,69.3,69.0,58.6,29.30,Fair weather | Pressure steady — little change expected
+11:09:09,69.3,70.0,59.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:11,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:13,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:15,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:17,69.1,70.0,58.9,29.30,Fair weather | Pressure steady — little change expected
+11:09:19,69.3,70.0,59.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:21,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:23,69.4,70.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:25,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:27,69.4,70.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:29,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:32,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:34,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:36,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:38,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:09:40,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:42,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:09:44,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:09:46,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:09:48,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:50,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:09:52,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:54,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:09:56,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:09:58,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:10:00,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:02,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:04,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:10:06,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:08,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:10,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:12,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:14,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:16,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:10:18,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:20,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:10:22,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:10:24,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:26,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:10:28,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:30,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:33,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:10:35,69.6,69.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:10:37,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:10:39,69.4,70.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:41,69.4,69.0,58.8,29.30,Fair weather | Pressure steady — little change expected
+11:10:43,69.8,69.0,59.2,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:45,69.6,70.0,59.4,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:10:47,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:10:49,69.6,69.0,59.0,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:10:51,69.4,70.0,59.2,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:10:53,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:55,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:10:57,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:10:59,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:11:01,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:03,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:05,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:11:07,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:11:09,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:11:11,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:13,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:15,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:17,69.1,70.0,58.9,29.30,Fair weather | Pressure steady — little change expected
+11:11:19,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:21,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:11:23,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:11:25,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:11:27,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:29,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:11:31,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:11:33,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:11:36,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:38,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:40,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:42,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:44,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:46,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:48,69.8,71.0,60.0,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:50,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:11:52,69.4,71.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:54,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:11:56,69.6,71.0,59.8,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:11:58,69.8,70.0,59.6,29.30,Warming with dropping humidity — fair weather likely | Pressure steady — little change expected
+11:12:00,69.6,71.0,59.8,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:12:02,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:04,69.4,71.0,59.6,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:12:06,69.6,71.0,59.8,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:08,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:10,69.4,71.0,59.6,29.30,Cooling with rising humidity — possible rain soon | Pressure steady — little change expected
+11:12:12,69.3,70.0,59.0,29.30,Fair weather | Pressure steady — little change expected
+11:12:14,69.6,70.0,59.4,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:16,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:18,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:12:20,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:12:22,69.4,70.0,59.2,29.30,Fair weather | Pressure steady — little change expected
+11:12:24,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:26,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:28,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:30,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:32,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:12:34,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:12:36,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:12:39,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:41,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:43,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:45,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:47,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:49,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:51,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:53,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:12:55,69.8,70.0,59.6,29.30,Fair weather | Pressure steady — little change expected
+11:12:57,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:12:59,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
+11:13:01,69.6,70.0,59.4,29.30,Fair weather | Pressure steady — little change expected
+11:13:03,69.8,70.0,59.6,29.30,Moisture increasing — precipitation possible | Pressure steady — little change expected
